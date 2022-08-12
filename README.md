@@ -1,4 +1,5 @@
-### Hello & Welcome to my Git Profile, My name is Wildy Sheverando
+### Hello & Welcome to my Git Profile 
+### My name is Wildy Sheverando
 
 
 <div id="stats" align="center">
