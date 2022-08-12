@@ -1,6 +1,6 @@
 
 <div id="stats" align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=%#ff9705&center=true&vCenter=true&lines=Hello,%20Welcome%20to%20my%20Git%20Profile"/>
+<img src="https://readme-typing-svg.herokuapp.com/?color=ff9705&center=true&vCenter=true&lines=Hello,%20Welcome%20to%20my%20Git%20Profile"/>
 </div>
 
 ### I am code using
