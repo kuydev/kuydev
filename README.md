@@ -1,9 +1,7 @@
-### Hello, my name is nothing
+### Hello & Welcome to my Git Profile, My name is Wildy Sheverando
 
 
 <div id="stats" align="center">
-
-![PHP Lang](https://img.shields.io/badge](https://img.shields.io/badge/Shell-blue.svg)
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=kuydev)
   
