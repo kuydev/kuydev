@@ -4,7 +4,7 @@
 <div id="stats" align="center">
 ![PHP](https://img.shields.io/badge](https://img.shields.io/badge/Php-blue.svg)
 
-![Bash](https://img.shields.io/badge](https://img.shields.io/badge/Shell-blue.svg)
+![Github Stats](https://img.shields.io/badge](https://img.shields.io/badge/Shell-blue.svg)
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=kuydev)
   
