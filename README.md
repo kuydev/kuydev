@@ -8,4 +8,4 @@
 
 <div id="stats" align="center">
   
-![Github Stats](https://github-readme-stats.vercel.app/api?username=janeclrst&theme=blue-green&show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=kuydev&theme=blue-green&show_icons=true)
