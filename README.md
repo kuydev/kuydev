@@ -12,7 +12,10 @@
 
 <div id="stats" align="center">
 
+<!-- Visitor -->
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=kuydev)
+
+<!-- Github Stats -->
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kuydev&theme=blue-green&show_icons=true)
 
 </div>
