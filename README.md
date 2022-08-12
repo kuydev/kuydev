@@ -7,5 +7,5 @@
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=kuydev)
 
 <div id="stats" align="center">
-![kuydev's github stats](https://github-readme-stats.vercel.app/api?username=kuydev&theme=blue-green&show_icons=true)
+![janeclarst's github stats](https://github-readme-stats.vercel.app/api?username=kuydev&theme=blue-green&show_icons=true)
 
