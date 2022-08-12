@@ -1,4 +1,4 @@
-### Hi There My Name is Wildy Sheverando<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi There My Name is Wildy Sheverando
 
 - :mortar_board: Computer Science Student at Bunda Mulia University
 - 😄 Pronouns: she/her
