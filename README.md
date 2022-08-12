@@ -2,6 +2,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&center=true&vCenter=true&lines=Hello,%20Welcome%20in%20my%20Git%20Profile">
 
+<img src="https://readme-typing-svg.herokuapp.com/?color=%2336BCF7&center=true&vCenter=true&lines=My%20name%20is%20Wildy%20Sheverando%20or%20can%20call%20me%20KuyDev“>
+  
 Hey & Welcome to my Git Profile<br>
 My name is Wildy Sheverando<br>
 I code in Bash, PHP, Python, Perl, Ruby, Go<br>
