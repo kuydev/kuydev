@@ -1,6 +1,6 @@
-### Hello & Welcome to my Git Profile 
+### Hey & Welcome to my Git Profile
 ### My name is Wildy Sheverando
-
+### I code in Bash, PHP, Python, Perl, Ruby, Go
 
 <div id="stats" align="center">
 
