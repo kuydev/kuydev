@@ -1,5 +1,5 @@
 
-<div id="stats" align="center">
+<div id="welcome" align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?color=ff9705&center=true&lines=Hello,%20Welcome%20to%20my%20Git%20Profile"/>
 </div>
 
